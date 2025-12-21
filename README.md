@@ -26,8 +26,14 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="tensorflow" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+
 ## 📊 Github Stats
 ![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=opixdown&show_icons=true&theme=github_dark&hide_border=True)
+
+## ✨ Badges 
+[![An image of @opixdown's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/opixdown)](https://holopin.io/@opixdown)
+
+
 
 
 ## My Socials
